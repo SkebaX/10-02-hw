@@ -78,8 +78,8 @@ listen web_tcp
     server s2 127.0.0.1:9999 check inter 3s
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+`!Задание 1](https://github.com/SkebaX/10-02-hw/blob/main/screenshots/HW-10-02-Task-1.png)`
+`!Файл конфигурации 1](https://github.com/SkebaX/10-02-hw/blob/main/config/haproxy1.cfg)`
 
 
 ---
@@ -159,8 +159,8 @@ backend web_servers # секция бэкенд
         server s3 127.0.0.1:7777 check weight 4
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+`!Задание 2](https://github.com/SkebaX/10-02-hw/blob/main/screenshots/HW-10-02-Task-2.png)`
+`!Файл конфигурации 2](https://github.com/SkebaX/10-02-hw/blob/main/config/haproxy2.cfg)``
 
 
 ---
