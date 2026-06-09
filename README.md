@@ -78,8 +78,10 @@ listen web_tcp
     server s2 127.0.0.1:9999 check inter 3s
 ```
 
-`!Задание 1](screenshots/HW-10-02-Task-1.png)
- !Файл конфигурации 1](config/haproxy1.cfg)`
+`
+
+![Задание 1](screenshots/HW-10-02-Task-1.png)
+![haproxy1](config/haproxy1.cfg)`
 
 
 ---
@@ -159,8 +161,10 @@ backend web_servers # секция бэкенд
         server s3 127.0.0.1:7777 check weight 4
 ```
 
-`!Задание 2](https://github.com/SkebaX/10-02-hw/blob/main/screenshots/HW-10-02-Task-2.png)`
-`!Файл конфигурации 2](https://github.com/SkebaX/10-02-hw/blob/main/config/haproxy2.cfg)``
+`
+
+![Задание 2](screenshots/HW-10-02-Task-2.png)
+![haproxy2](config/haproxy2.cfg)`
 
 
 ---
