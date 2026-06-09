@@ -78,8 +78,8 @@ listen web_tcp
     server s2 127.0.0.1:9999 check inter 3s
 ```
 
-`!Задание 1](https://github.com/SkebaX/10-02-hw/blob/main/screenshots/HW-10-02-Task-1.png)`
-`!Файл конфигурации 1](https://github.com/SkebaX/10-02-hw/blob/main/config/haproxy1.cfg)`
+`!Задание 1](https://github.com/SkebaX/10-02-hw/blob/main/screenshots/HW-10-02-Task-1.png)
+ !Файл конфигурации 1](https://github.com/SkebaX/10-02-hw/blob/main/config/haproxy1.cfg)`
 
 
 ---
