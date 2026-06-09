@@ -81,7 +81,7 @@ listen web_tcp
 `
 
 ![Задание 1](screenshots/HW-10-02-Task-1.png)
-![haproxy1](config/haproxy1.cfg)`
+[haproxy1](config/haproxy1.cfg)`
 
 
 ---
@@ -164,7 +164,7 @@ backend web_servers # секция бэкенд
 `
 
 ![Задание 2](screenshots/HW-10-02-Task-2.png)
-![haproxy2](config/haproxy2.cfg)`
+[haproxy2](config/haproxy2.cfg)`
 
 
 ---
